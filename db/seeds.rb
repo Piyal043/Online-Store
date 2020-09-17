@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Product.delete_all
 # . . .
-Product.create!(title: 'Build Chatbot Interactions',
+Product.create!(title: 'Orange',
 description:
 %{<p>
 <em>Responsive, Intuitive Interfaces with Ruby</em>
